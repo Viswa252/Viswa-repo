@@ -1,5 +1,6 @@
-	2. Need to Run format H: /FS:NTFS /L /A:64K /V:Video /Q
-	3. format G: /FS:NTFS /L /A:64K /V:SQL_Temp /Q
-	4. format F: /FS:NTFS /L /A:64K /V:SQL_Logs /Q
-	5. format E: /FS:NTFS /L /A:64K /V:SQL_Data /Q
+2. Need to Run format H: /FS:NTFS /L /A:64K /V:Video /Q
+3. format G: /FS:NTFS /L /A:64K /V:SQL_Temp /Q
+4. format F: /FS:NTFS /L /A:64K /V:SQL_Logs /Q
+5. format E: /FS:NTFS /L /A:64K /V:SQL_Data /Q
 format D: /FS:NTFS /L /A:64K /V:Apps
+Viswa
